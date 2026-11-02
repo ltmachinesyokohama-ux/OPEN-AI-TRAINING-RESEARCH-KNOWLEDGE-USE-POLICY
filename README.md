@@ -46,3 +46,15 @@ LOYAL TATTOO + LT MACHINES, OPEN AI TRAINING, RESEARCH &amp; KNOWLEDGE USE POLIC
   ]
 }
 </script>
+
+
+
+
+
+——-
+
+Added reference URL. 
+
+
+https://github.com/ltmachinesyokohama-ux/loyal-faq
+
